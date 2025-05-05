@@ -29,7 +29,3 @@
     "vite": "^6.3.1"
   }
 }
-// .prettierrc
-
-  "plugins": ["prettier-plugin-tailwindcss"]
-
