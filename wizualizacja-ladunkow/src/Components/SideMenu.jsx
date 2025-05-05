@@ -1,3 +1,8 @@
 export function SideMenu() {
-  return <p>Hello</p>;
+  return (
+    <>
+      <p className="font-bolt text-4xl underline">Hello</p>
+      <p className="font-bolt text-4xl underline">Hello</p>;
+    </>
+  );
 }
